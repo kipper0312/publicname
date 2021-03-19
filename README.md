@@ -12,4 +12,4 @@
 
 1. ![이미지](https://github.com/kipper0312/publicname/blob/main/R5de14476a35d3a7c718abefcafb258fb.jfif)
 2. [동영상](https://www.youtube.com/watch?v=Fq5JS2FsrOA)
-3. [![이미지](https://github.com/kipper0312/publicname/blob/main/R5de14476a35d3a7c718abefcafb258fb.jfif)]
+3. [![이미지](https://github.com/kipper0312/publicname/blob/main/R5de14476a35d3a7c718abefcafb258fb.jfif)(https://www.youtube.com/watch?v=Fq5JS2FsrOA)]
